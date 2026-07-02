@@ -1,7 +1,7 @@
 library(logr)
 
 # Start the log (creates a .log file automatically)
-log_open("question1_sdtm_ds/01_create_ds_domain.log")
+log_open("question_1_sdtm/01_create_ds_domain.log")
 log_print("Starting Execution DS mapping")
 
 # ==============================================================================

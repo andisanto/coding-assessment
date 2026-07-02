@@ -8,20 +8,20 @@ Machine: application-17575405-deployment-31454619-vh7fh x86_64
 Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
 Base Packages: stats graphics grDevices utils datasets methods base 
 Other Packages: gt_1.3.0 gtsummary_2.5.1 pharmaverseadam_1.3.0 xportr_0.5.0 forcats_1.0.1 stringr_1.6.0 purrr_1.2.2 readr_2.2.0 tidyr_1.3.2 tibble_3.3.1 ggplot2_4.0.3 tidyverse_2.0.0 logr_1.3.9 common_1.1.5 lubridate_1.9.5 dplyr_1.2.1 sdtm.oak_0.2.0 pharmaverseraw_0.1.1 
-Log Start Time: 2026-07-02 21:03:16.491467 
+Log Start Time: 2026-07-02 21:08:42.837848 
 ========================================================================= 
 
 Starting Execution DS mapping 
 
-NOTE: Log Print Time:  2026-07-02 21:03:16.493801 
-NOTE: Elapsed Time: 0.00154995918273926 secs 
+NOTE: Log Print Time:  2026-07-02 21:08:42.840368 
+NOTE: Elapsed Time: 0.00189375877380371 secs 
 
 Execution successfully completed. Closing log. 
 
-NOTE: Log Print Time:  2026-07-02 21:03:18.244921 
-NOTE: Elapsed Time: 1.75111961364746 secs 
+NOTE: Log Print Time:  2026-07-02 21:08:44.130259 
+NOTE: Elapsed Time: 1.28989028930664 secs 
 
 ========================================================================= 
-Log End Time: 2026-07-02 21:03:18.245928 
+Log End Time: 2026-07-02 21:08:44.13116 
 Log Elapsed Time: 0 00:00:01 
 ========================================================================= 

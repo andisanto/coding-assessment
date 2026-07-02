@@ -172,8 +172,7 @@ adsl <- left_join(demo_merged, lstavl_df, by = "USUBJID") %>%
   mutate(across(where(is.character), ~ replace_na(., "")))
 
 print(head(adsl))
-
-log_print(glimpse(adsl))
+log_print("Execution successfully completed. Closing log.")
 
 # Close the log at the end of the script
 log_close()

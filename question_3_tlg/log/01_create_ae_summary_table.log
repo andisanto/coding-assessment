@@ -8,19 +8,20 @@ Machine: application-17575405-deployment-31454619-vh7fh x86_64
 Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
 Base Packages: stats graphics grDevices utils datasets methods base 
 Other Packages: gt_1.3.0 gtsummary_2.5.1 pharmaverseadam_1.3.0 xportr_0.5.0 forcats_1.0.1 stringr_1.6.0 purrr_1.2.2 readr_2.2.0 tidyr_1.3.2 tibble_3.3.1 ggplot2_4.0.3 tidyverse_2.0.0 logr_1.3.9 common_1.1.5 lubridate_1.9.5 dplyr_1.2.1 sdtm.oak_0.2.0 pharmaverseraw_0.1.1 
-Log Start Time: 2026-07-02 20:50:20.097319 
+Log Start Time: 2026-07-02 21:01:51.740303 
 ========================================================================= 
 
 Starting Execution AE smmary table 
 
-NOTE: Log Print Time:  2026-07-02 20:50:20.0996 
-NOTE: Elapsed Time: 0.00152134895324707 secs 
+NOTE: Log Print Time:  2026-07-02 21:01:51.742525 
+NOTE: Elapsed Time: 0.00144648551940918 secs 
 
+Execution successfully completed. Closing log. 
 
-NOTE: Log Print Time:  2026-07-02 20:50:29.251986 
-NOTE: Elapsed Time: 9.15238523483276 secs 
+NOTE: Log Print Time:  2026-07-02 21:01:59.948374 
+NOTE: Elapsed Time: 8.20584869384766 secs 
 
 ========================================================================= 
-Log End Time: 2026-07-02 20:50:29.253162 
-Log Elapsed Time: 0 00:00:09 
+Log End Time: 2026-07-02 21:01:59.949552 
+Log Elapsed Time: 0 00:00:08 
 ========================================================================= 

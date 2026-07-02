@@ -70,8 +70,7 @@ ae_table <- tbl_hierarchical(
 
 # 7. Save the nested HTML table to a file
 gtsave(data = ae_table, filename = "question_3_tlg/Table_10_ae_summary_table.html")
-
-log_print(glimpse(ae_table))
+log_print("Execution successfully completed. Closing log.")
 
 # Close the log at the end of the script
 log_close()

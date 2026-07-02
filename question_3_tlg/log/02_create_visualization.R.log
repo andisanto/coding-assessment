@@ -1,0 +1,42 @@
+========================================================================= 
+Log Path: question_3_tlg/log/02_create_visualization.R.log 
+Program Path: /cloud/project/question_3_tlg/02_create_visualizaton.R 
+Working Directory: /cloud/project 
+User Name: r3872888 
+R Version: 4.6.1 (2026-06-24) 
+Machine: application-17575405-deployment-31454619-vh7fh x86_64 
+Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: gt_1.3.0 gtsummary_2.5.1 pharmaverseadam_1.3.0 xportr_0.5.0 forcats_1.0.1 stringr_1.6.0 purrr_1.2.2 readr_2.2.0 tidyr_1.3.2 tibble_3.3.1 ggplot2_4.0.3 tidyverse_2.0.0 logr_1.3.9 common_1.1.5 lubridate_1.9.5 dplyr_1.2.1 sdtm.oak_0.2.0 pharmaverseraw_0.1.1 
+Log Start Time: 2026-07-02 20:50:05.071959 
+========================================================================= 
+
+Starting Execution data visualization 
+
+NOTE: Log Print Time:  2026-07-02 20:50:05.074244 
+NOTE: Elapsed Time: 0.00148987770080566 secs 
+
+Generating Option A: Stacked Bar Chart 
+
+NOTE: Log Print Time:  2026-07-02 20:50:05.09841 
+NOTE: Elapsed Time: 0.0241668224334717 secs 
+
+Generating Option B: Heatmap Matrix 
+
+NOTE: Log Print Time:  2026-07-02 20:50:06.334907 
+NOTE: Elapsed Time: 1.23649621009827 secs 
+
+Generating Plot 2: Top 10 AE Incidence CIs 
+
+NOTE: Log Print Time:  2026-07-02 20:50:07.258059 
+NOTE: Elapsed Time: 0.923152685165405 secs 
+
+Execution successfully completed. Closing log. 
+
+NOTE: Log Print Time:  2026-07-02 20:50:08.388253 
+NOTE: Elapsed Time: 1.13019347190857 secs 
+
+========================================================================= 
+Log End Time: 2026-07-02 20:50:08.389023 
+Log Elapsed Time: 0 00:00:03 
+========================================================================= 

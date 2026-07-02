@@ -1,0 +1,43 @@
+========================================================================= 
+Log Path: question_2_adam/log/create_adsl.log 
+Program Path: /cloud/project/question_2_adam/create_adsl.R 
+Working Directory: /cloud/project 
+User Name: r3872888 
+R Version: 4.6.1 (2026-06-24) 
+Machine: application-17575405-deployment-31454619-ht4s4 x86_64 
+Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: xportr_0.5.0 forcats_1.0.1 stringr_1.6.0 purrr_1.2.2 readr_2.2.0 tidyr_1.3.2 tibble_3.3.1 ggplot2_4.0.3 tidyverse_2.0.0 logr_1.3.9 common_1.1.5 lubridate_1.9.5 dplyr_1.2.1 sdtm.oak_0.2.0 pharmaverseraw_0.1.1 
+Log Start Time: 2026-07-02 18:35:36.098215 
+========================================================================= 
+
+Starting Execution ADSL mapping 
+
+NOTE: Log Print Time:  2026-07-02 18:35:36.10141 
+NOTE: Elapsed Time: 0.0021357536315918 secs 
+
+# A tibble: 306 × 9
+   STUDYID      USUBJID       AGE AGEGR9 AGEGR9N TRTSDTM            TRTSTMF ITTFL LSTAVLDT  
+   <chr>        <chr>       <dbl> <chr>    <dbl> <chr>              <chr>   <chr> <chr>     
+ 1 CDISCPILOT01 01-701-1015    63 >50          3 "2014-01-02T00:00" "TM"    Y     2014-07-02
+ 2 CDISCPILOT01 01-701-1023    64 >50          3 "2012-08-05T00:00" "TM"    Y     2013-02-18
+ 3 CDISCPILOT01 01-701-1028    71 >50          3 "2013-07-19T00:00" "TM"    Y     2014-01-14
+ 4 CDISCPILOT01 01-701-1033    74 >50          3 "2014-03-18T00:00" "TM"    Y     2014-09-15
+ 5 CDISCPILOT01 01-701-1034    77 >50          3 "2014-07-01T00:00" "TM"    Y     2014-12-30
+ 6 CDISCPILOT01 01-701-1047    85 >50          3 "2013-02-12T00:00" "TM"    Y     2013-07-28
+ 7 CDISCPILOT01 01-701-1057    59 >50          3 ""                 ""      Y     2013-12-20
+ 8 CDISCPILOT01 01-701-1097    68 >50          3 "2014-01-01T00:00" "TM"    Y     2014-07-09
+ 9 CDISCPILOT01 01-701-1111    81 >50          3 "2012-09-07T00:00" "TM"    Y     2013-02-22
+10 CDISCPILOT01 01-701-1115    84 >50          3 "2012-11-30T00:00" "TM"    Y     2013-05-20
+# ℹ 296 more rows
+# ℹ Use `print(n = ...)` to see more rows
+
+NOTE: Data frame has 306 rows and 9 columns. 
+
+NOTE: Log Print Time:  2026-07-02 18:35:37.409383 
+NOTE: Elapsed Time: 1.30797338485718 secs 
+
+========================================================================= 
+Log End Time: 2026-07-02 18:35:37.410623 
+Log Elapsed Time: 0 00:00:01 
+========================================================================= 

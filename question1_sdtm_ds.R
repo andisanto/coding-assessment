@@ -207,6 +207,7 @@ question1_sdtm_ds <- sdtm_ds_final %>%
     VISITNUM, VISIT, DSDTC, DSSTDTC, DSSTDY
   )
 
+
 # Output verification
 glimpse(question1_sdtm_ds)
 log_print(glimpse(question1_sdtm_ds))

@@ -1,0 +1,27 @@
+========================================================================= 
+Log Path: question_1_sdtm/log/01_create_ds_domain.log 
+Program Path: /cloud/project/question_1_sdtm/01_create_ds_domain.R 
+Working Directory: /cloud/project 
+User Name: r3872888 
+R Version: 4.6.1 (2026-06-24) 
+Machine: application-17575405-deployment-31454619-vh7fh x86_64 
+Operating System: Linux 6.17.0-1017-aws #17~24.04.1-Ubuntu SMP Tue May 26 21:30:32 UTC 2026 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: gt_1.3.0 gtsummary_2.5.1 pharmaverseadam_1.3.0 xportr_0.5.0 forcats_1.0.1 stringr_1.6.0 purrr_1.2.2 readr_2.2.0 tidyr_1.3.2 tibble_3.3.1 ggplot2_4.0.3 tidyverse_2.0.0 logr_1.3.9 common_1.1.5 lubridate_1.9.5 dplyr_1.2.1 sdtm.oak_0.2.0 pharmaverseraw_0.1.1 
+Log Start Time: 2026-07-02 21:09:33.119331 
+========================================================================= 
+
+Starting Execution DS mapping 
+
+NOTE: Log Print Time:  2026-07-02 21:09:33.166733 
+NOTE: Elapsed Time: 0.0467324256896973 secs 
+
+Execution successfully completed. Closing log. 
+
+NOTE: Log Print Time:  2026-07-02 21:09:34.402019 
+NOTE: Elapsed Time: 1.23528599739075 secs 
+
+========================================================================= 
+Log End Time: 2026-07-02 21:09:34.40309 
+Log Elapsed Time: 0 00:00:01 
+========================================================================= 

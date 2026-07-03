@@ -1,5 +1,11 @@
 # coding-assessment
-# 1 Adverse Event Summary & Visualization Pipeline
+
+## Author & Versioning
+*   **Author**: Antonio Di Santo
+*   **Date**: 02-Jul-2026
+*   **Status**: Test Verification
+
+# 1 - Adverse Event Summary & Visualization Pipeline
 
 This repository contains clinical programming scripts designed to process CDISC-compliant SDTM and ADaM data and scripts to generate regulatory-grade datasets, tables, and safety visualizations.
 
@@ -52,7 +58,7 @@ source("question_3_tlg/02_create_visualization.R")
 
 
 
-# 2 Generative AI Clinical Trial Data Agent
+# 2 - Generative AI Clinical Trial Data Agent
 
 An intelligent, schema-aware Generative AI Assistant that dynamically translates unstructured, natural language questions from clinical safety reviewers into structured Pandas execution filters. 
 
@@ -76,7 +82,5 @@ git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.c
 cd YOUR_REPO_NAME
 
 
-## Author & Versioning
-*   **Author**: Antonio Di Santo
-*   **Date**: 02-Jul-2026
-*   **Status**: Test Verification
+
+

@@ -1,5 +1,5 @@
 # coding-assessment
-# Adverse Event Summary & Visualization Pipeline
+# 1 Adverse Event Summary & Visualization Pipeline
 
 This repository contains clinical programming scripts designed to process CDISC-compliant SDTM and ADaM data and scripts to generate regulatory-grade datasets, tables, and safety visualizations.
 
@@ -49,8 +49,34 @@ source("question_3_tlg/02_create_visualization.R")
 2.  **Severity Visuals**: Compares relative proportions (Stacked Bar) and absolute densities (Heatmap Matrix) of MILD, MODERATE, and SEVERE event records across ADSL-defined treatment groups.
 3.  **Incidence Rates & CIs**: Estimates individual subject risk percentages alongside Exact Clopper-Pearson 95% Confidence Intervals for the top 10 overall most frequent clinical events, using ADSL arm totals as the analytical baseline.
 
+
+
+
+# 2 Generative AI Clinical Trial Data Agent
+
+An intelligent, schema-aware Generative AI Assistant that dynamically translates unstructured, natural language questions from clinical safety reviewers into structured Pandas execution filters. 
+
+The core architecture maps human intent directly to target variables inside a CDISC SDTM Adverse Event (AE) dataset without relying on brittle, hardcoded regular expressions or static conditional rules.
+
+---
+
+## Project Structure
+* `question_4_CDA.py`: The core implementation container featuring the `ClinicalTrialDataAgent` engine wrapper and deterministic validation layer.
+* `adae.csv`: Local reference copy of the source `pharmaversesdtm::ae` clinical dataset used for verification checks.
+* `requirements.txt`: Environment package manifest detailing necessary execution dependencies.
+
+---
+
+## Installation & Setup
+
+### 1. Clone the Repository
+Clone this repository to your local directory setup and move directly into the workspace footprint:
+```bash
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+cd YOUR_REPO_NAME
+
+
 ## Author & Versioning
 *   **Author**: Antonio Di Santo
 *   **Date**: 02-Jul-2026
-*   **Status**: Validated / Production-Ready
-
+*   **Status**: Test Verification
